@@ -9,7 +9,4 @@ Handles multiple concurrent requests effectively using multiple threads
 Logs information about each request to /var/log/erss/proxy.log
 Assigns a unique identifier to each request for easy tracking in the log
 Prints useful log messages to help diagnose issues
-Getting Started
-Clone the repository: git clone git@github.com:syhuang22/HTTP-Caching-Proxy.git
-Run the below command in HTTP-Caching-Proxy directory
-sudo docker-compose up
+
