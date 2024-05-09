@@ -10,3 +10,4 @@ Logs information about each request to /var/log/erss/proxy.log
 Assigns a unique identifier to each request for easy tracking in the log
 Prints useful log messages to help diagnose issues
 
+<img width="1390" alt="Screenshot 2024-05-09 at 12 50 55" src="https://github.com/jeetbhatkar2004/HTTPProxyCache/assets/108226250/83e01f99-cab2-4aef-9e2e-f5048f093962">
